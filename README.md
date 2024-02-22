@@ -59,4 +59,4 @@ To run the project in your local environment, follow these steps:
 
 ## 🍿 Video
 
-https://github.com/JarneDirken/2024-Angular_Project/video/
+https://github.com/JarneDirken/2022-2DPythonGame/assets/90832359/e258eb11-bc53-4f93-bf6a-53648a439ef2
